@@ -3322,7 +3322,7 @@ a.tag:hover {
 .accordions .accordion {
   display: flex;
   flex-direction: column;
-  background-color: #FF6159;
+  background-color: whitesmoke;
   border-radius: 3px;
   font-size: 1rem; }
   .accordions .accordion:not(:last-child) {
@@ -3425,7 +3425,7 @@ a.tag:hover {
       border-color: white;
       color: #4d4d4d; }
   .accordions .accordion.is-black {
-    background-color: #fafafa; }
+    background-color: #0a0a0a; }
     .accordions .accordion.is-black .accordion-header {
       background-color: #0a0a0a;
       color: white; }
@@ -3433,7 +3433,7 @@ a.tag:hover {
       border-color: #0a0a0a;
       color: #0a0a0a; }
   .accordions .accordion.is-light {
-    background-color: #fafafa; }
+    background-color: whitesmoke; }
     .accordions .accordion.is-light .accordion-header {
       background-color: whitesmoke;
       color: #272727; }
@@ -3441,7 +3441,7 @@ a.tag:hover {
       border-color: whitesmoke;
       color: #4f4f4f; }
   .accordions .accordion.is-dark {
-    background-color: #fafafa; }
+    background-color: #272727; }
     .accordions .accordion.is-dark .accordion-header {
       background-color: #272727;
       color: whitesmoke; }
@@ -3449,7 +3449,7 @@ a.tag:hover {
       border-color: #272727;
       color: #202020; }
   .accordions .accordion.is-primary {
-    background-color: #fafafa; }
+    background-color: #272727; }
     .accordions .accordion.is-primary .accordion-header {
       background-color: #272727;
       color: #fff; }
@@ -3457,7 +3457,7 @@ a.tag:hover {
       border-color: #272727;
       color: #202020; }
   .accordions .accordion.is-link {
-    background-color: #f6fcfe; }
+    background-color: #72d0eb; }
     .accordions .accordion.is-link .accordion-header {
       background-color: #72d0eb;
       color: rgba(0, 0, 0, 0.7); }
@@ -3465,7 +3465,7 @@ a.tag:hover {
       border-color: #72d0eb;
       color: #1d596b; }
   .accordions .accordion.is-info {
-    background-color: #f6fbfe; }
+    background-color: #209cee; }
     .accordions .accordion.is-info .accordion-header {
       background-color: #209cee;
       color: #fff; }
@@ -3473,7 +3473,7 @@ a.tag:hover {
       border-color: #209cee;
       color: #12537e; }
   .accordions .accordion.is-success {
-    background-color: #f6fef9; }
+    background-color: #23d160; }
     .accordions .accordion.is-success .accordion-header {
       background-color: #23d160;
       color: #fff; }
@@ -3481,7 +3481,7 @@ a.tag:hover {
       border-color: #23d160;
       color: #0e311a; }
   .accordions .accordion.is-warning {
-    background-color: #fffcf5; }
+    background-color: #FFBD2E; }
     .accordions .accordion.is-warning .accordion-header {
       background-color: #FFBD2E;
       color: rgba(0, 0, 0, 0.7); }
@@ -3489,7 +3489,7 @@ a.tag:hover {
       border-color: #FFBD2E;
       color: #473307; }
   .accordions .accordion.is-danger {
-    background-color: #fff5f5; }
+    background-color: #FF6159; }
     .accordions .accordion.is-danger .accordion-header {
       background-color: #FF6159;
       color: #fff; }
@@ -6724,4 +6724,4 @@ label.panel-block {
   background-color: whitesmoke;
   padding: 3rem 1.5rem 6rem; }
 
-/*# sourceMappingURL=reportingPanelTheme.css.map */
+/*# sourceMappingURL=reportingPanelBulmaTheme.css.map */
