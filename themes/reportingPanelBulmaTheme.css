@@ -3322,7 +3322,7 @@ a.tag:hover {
 .accordions .accordion {
   display: flex;
   flex-direction: column;
-  background-color: whitesmoke;
+  background-color: #FF6159;
   border-radius: 3px;
   font-size: 1rem; }
   .accordions .accordion:not(:last-child) {
