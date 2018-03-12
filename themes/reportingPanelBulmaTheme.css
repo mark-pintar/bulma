@@ -3331,7 +3331,7 @@ a.tag:hover {
     color: currentColor; }
   .accordions .accordion a:not(.button):not(.tag) {
     color: currentColor;
-    text-decoration: underline; }
+    text-decoration: none; }
   .accordions .accordion.is-small {
     font-size: 0.75rem; }
   .accordions .accordion.is-medium {
